@@ -3,7 +3,6 @@ public class LoopIt {
     //While Loop
     //Do While Loop
     public static void main(String[] args) {
-        LoopIt Looper = new LoopIt();
         LoopIt.loops();
 
     }
